@@ -4,6 +4,7 @@ public class palindrome {
     int number;
     palindrome(int number)
     {
+
         this.number=number;
     }
     public boolean isPalindrome()
